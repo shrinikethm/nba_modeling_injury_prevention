@@ -6,17 +6,16 @@ injuries, extend player careers, and improve overall team performance. Additiona
 it will offer financial benefits by reducing medical costs and minimizing the impact of
 injuries on player salaries.
 
-##Team Members & Roles
-** Jay Shah - Data Engineer/Database Designer**: SQL & database design, ER modeling,
-normalization.
-** Tea Adams - Data Analyst/Predictive Modeling Lead**: Programming, analysis, problem-
-solving, and predictive modeling.
-** Shriniketh Mukundan - Data Visualization/Reporting Lead**: Data visualization, com-
-munication, collaboration.
+## Team Members & Roles
 
-##Tech Stack
+Jay Shah - Data Engineer/Database Designer: SQL & database design, ER modeling,
+normalization.
+Tea Adams - Data Analyst/Predictive Modeling Lead: Programming, analysis, problem solving, and predictive modeling.
+Shriniketh Mukundan - Data Visualization/Reporting Lead: Data visualization, communication, collaboration.
+
+## Tech Stack
 Languages: Python, SQL.
-Discussed Tools & Software: Python(NumPy, SciKit Learn, matplotlib, pandas), SQL(PostgreSQL, SQLAlchemy), Microsoft Products(Azure Databricks, Power BI), Tableau
+Discussed Tools & Software: Python(NumPy, SciKit Learn, matplotlib, pandas), SQL(PostgreSQL, SQLAlchemy), Microsoft Products(Azure Databricks, Power BI), Tableau.
 Version Control: GitHub.
 File Management Tools: Google Drive.
 

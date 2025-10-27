@@ -7,12 +7,12 @@ it will offer financial benefits by reducing medical costs and minimizing the im
 injuries on player salaries.
 
 ##Team Members & Roles
-• Jay Shah - Data Engineer/Database Designer: SQL & database design, ER modeling,
-normalization
-• Tea Adams - Data Analyst/Predictive Modeling Lead: Programming, analysis, problem-
-solving, and predictive modeling
-• Shriniketh Mukundan - Data Visualization/Reporting Lead: Data visualization, com-
-munication, collaboration
+** Jay Shah - Data Engineer/Database Designer**: SQL & database design, ER modeling,
+normalization.
+** Tea Adams - Data Analyst/Predictive Modeling Lead**: Programming, analysis, problem-
+solving, and predictive modeling.
+** Shriniketh Mukundan - Data Visualization/Reporting Lead**: Data visualization, com-
+munication, collaboration.
 
 ##Tech Stack
 Languages: Python, SQL.

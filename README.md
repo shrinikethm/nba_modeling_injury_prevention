@@ -17,8 +17,8 @@ normalization
 * **Shriniketh Mukundan - Data Visualization/Reporting Lead**: Data visualization, communication, collaboration
 
 ## Tech Stack
-* **Languages**: Python, SQL
-* **Discussed Tools & Software**: Python(NumPy, SciKit Learn, matplotlib, pandas), SQL(PostgreSQL, SQLAlchemy), Tableau
+* **Languages**: Python
+* **Discussed Tools & Software**: Python(NumPy, SciKit Learn, matplotlib, pandas),  Tableau
 * **Version Control**: GitHub
 * **File Management Tools**: Google Drive
 

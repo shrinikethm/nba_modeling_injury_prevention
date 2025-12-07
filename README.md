@@ -11,9 +11,9 @@ it can be used by these users to make more calculated bets.
 
 ## Team Members & Roles
 
-* **Jay Shah - Data Engineer**: Programming, predictive analysis, interactive web application developer
-* **Tea Adams - Data Analyst/Predictive Modeling Lead**: Programming, analysis, problem solving, and predictive modeling
-* **Shriniketh Mukundan - Data Visualization/Reporting Lead**: Data visualization, dashboard application developer
+* **Jay Shah - Data Engineer**: Programming, Predictive Analysis, Interactive Web Application Developer
+* **Tea Adams - Data Analyst/Predictive Modeling Lead**: Programming, Analysis, Problem Solving, and Predictive Modeling
+* **Shriniketh Mukundan - Data Visualization/Reporting Lead**: Data Visualization, Dashboard Application Developer
 
 ## Tech Stack
 * **Languages**: Python

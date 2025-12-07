@@ -47,6 +47,11 @@ to that specific player, and identify the likelihood of injury across both model
 to provide a new wave of change for the NBA across teams and fans alike, so that the sport as a whole is only
 getting better with time.
 
+## Dashboard Application Setup
 
+
+<img width="1368" height="311" alt="Screenshot 2025-12-07 at 2 55 41 PM" src="https://github.com/user-attachments/assets/d9aa889a-da43-40b9-b016-01811b503fdf" />
+
+<img width="1512" height="618" alt="Screenshot 2025-12-06 at 6 09 47 PM" src="https://github.com/user-attachments/assets/7aced112-1d6f-431a-a974-2ed47effe4c0" />
 
 

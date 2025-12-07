@@ -11,14 +11,13 @@ it can be used by these users to make more calculated bets.
 
 ## Team Members & Roles
 
-* **Jay Shah - Data Engineer/Database Designer**: SQL & database design, ER modeling,
-normalization
+* **Jay Shah - Data Engineer**: Programming, predictive analysis, interactive web application developer
 * **Tea Adams - Data Analyst/Predictive Modeling Lead**: Programming, analysis, problem solving, and predictive modeling
-* **Shriniketh Mukundan - Data Visualization/Reporting Lead**: Data visualization, communication, collaboration
+* **Shriniketh Mukundan - Data Visualization/Reporting Lead**: Data visualization, dashboard application developer
 
 ## Tech Stack
 * **Languages**: Python
-* **Discussed Tools & Software**: Python(NumPy, SciKit Learn, matplotlib, pandas),  Tableau
+* **Discussed Tools & Software**: Python(NumPy, SciKit Learn, matplotlib, pandas, Seaborn, joblib, ipywidgets, IPython.display), Tableau
 * **Version Control**: GitHub
 * **File Management Tools**: Google Drive
 

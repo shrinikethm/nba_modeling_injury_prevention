@@ -57,7 +57,7 @@ NBA across teams and fans alike, so that the sport as a whole is only getting be
 ## Steps 
 * Change different feature sliders that correspond to the physical and statistical attributes of a specific player
 * Press the "Predict Injury Risk" button once all sliders are chosen
-* Assess the injury predictions made by both the Logistic Regression Model & Random Forest Model(Injury or No Injury) as well as the likihood each model predicts of an injury occurring
+* Assess the injury predictions made by both the Logistic Regression Model & Random Forest Model(Injury or No Injury) as well as the likelihood each model predicts of an injury occurring
 
 
 ## Requirements & Dependencies for Web-Based Dashboard Application

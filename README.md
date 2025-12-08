@@ -44,7 +44,7 @@ can utilize sliders for different features in order to see how those specific va
 is predicted to be injured or not across both developed models by using the "Predict Injury Risk" button once all 
 sliders are finalized. Furthermore, this web-based dashboard applicationis extremely helpful for users to analyze 
 certain player-specific statistics and use the sliders to correspondto that specific player, and identify the 
-likelihood of injury across both models. With this capability, we hopeto provide a new wave of change for the 
+likelihood of injury across both models. With this capability, we hope to provide a new wave of change for the 
 NBA across teams and fans alike, so that the sport as a whole is only getting better with time.
 
 ## Dashboard Application Setup & Steps
@@ -54,7 +54,7 @@ NBA across teams and fans alike, so that the sport as a whole is only getting be
 
 <img width="1512" height="618" alt="Screenshot 2025-12-06 at 6 09 47 PM" src="https://github.com/user-attachments/assets/7aced112-1d6f-431a-a974-2ed47effe4c0" />
 
-# Steps: 
+## Steps: 
 * Change different feature sliders that correspond to the physical and statistical attributes of a specific player
 * Press the "Predict Injury Risk" button once all sliders are chosen
 * Assess the injury predictions made by both the Logistic Regression Model & Random Forest Model(Injury or No Injury) as well as the likihood each model predicts of an injury occurring

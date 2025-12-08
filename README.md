@@ -54,4 +54,14 @@ getting better with time.
 
 <img width="1512" height="618" alt="Screenshot 2025-12-06 at 6 09 47 PM" src="https://github.com/user-attachments/assets/7aced112-1d6f-431a-a974-2ed47effe4c0" />
 
+## Requirements & Dependencies for Web-Based Dashboard Application
+* **scikit-learn**: Open Source Python Library that helps to build and train the Logistic Regression & Random Forest models
+* **joblib files**: Files that are able to reconstruct the Logistic Regression and Random Forest models as object, along with scaler objects
+* **streamlit**: Open Source Python Framework that's used for building and enabling web applications
+* **pandas**: Python Library utilized for analyzing data
+* **numpy**: Python Library used for array manipulation
+* **NBA_Injury_Prediction__WithDashboard.ipynb**: Google Colab Python File that contains data preprocessing, training, and evaluation of Logistic Regression & Random Forest Model
+* **scikit-learn version**: Proper scikit-learn version that's used in the NBA_Injury_Prediction__WithDashboard.ipynb file: 1.6.1 
+
+
 

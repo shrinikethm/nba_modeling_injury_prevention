@@ -41,11 +41,11 @@ file. Under the assumption that all .joblib files and the Python file are within
 directory is that same directory, the linux command: python -m streamlit run NBA_Injury_App.py can be executed, 
 which will enable the creation of a web-based dashboard on the user's local browser. With this dashboard, users
 can utilize sliders for different features in order to see how those specific values affect whether a player
-is predicted to be injured or not across both developed models. Furthermore, this web-based dashboard application
-is extremely helpful for users to analyze certain player-specific statistics and use the sliders to correspond
-to that specific player, and identify the likelihood of injury across both models. With this capability, we hope
-to provide a new wave of change for the NBA across teams and fans alike, so that the sport as a whole is only
-getting better with time.
+is predicted to be injured or not across both developed models by using the "Predict Injury Risk" button once all 
+sliders are finalized. Furthermore, this web-based dashboard applicationis extremely helpful for users to analyze 
+certain player-specific statistics and use the sliders to correspondto that specific player, and identify the 
+likelihood of injury across both models. With this capability, we hopeto provide a new wave of change for the 
+NBA across teams and fans alike, so that the sport as a whole is only getting better with time.
 
 ## Dashboard Application Setup
 

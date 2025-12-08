@@ -47,12 +47,18 @@ certain player-specific statistics and use the sliders to correspondto that spec
 likelihood of injury across both models. With this capability, we hopeto provide a new wave of change for the 
 NBA across teams and fans alike, so that the sport as a whole is only getting better with time.
 
-## Dashboard Application Setup
+## Dashboard Application Setup & Steps
 
 
 <img width="1368" height="311" alt="Screenshot 2025-12-07 at 2 55 41 PM" src="https://github.com/user-attachments/assets/d9aa889a-da43-40b9-b016-01811b503fdf" />
 
 <img width="1512" height="618" alt="Screenshot 2025-12-06 at 6 09 47 PM" src="https://github.com/user-attachments/assets/7aced112-1d6f-431a-a974-2ed47effe4c0" />
+
+# Steps: 
+* Change different feature sliders that correspond to the physical and statistical attributes of a specific player
+* Press the "Predict Injury Risk" button once all sliders are chosen
+* Assess the injury predictions made by both the Logistic Regression Model & Random Forest Model(Injury or No Injury) as well as the likihood each model predicts of an injury occurring
+
 
 ## Requirements & Dependencies for Web-Based Dashboard Application
 * **scikit-learn**: Open Source Python Library that helps to build and train the Logistic Regression & Random Forest models
